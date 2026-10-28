@@ -11,7 +11,7 @@
 | [BERT IMDb](https://github.com/javidshahadati/bert-imdb-sentiment) | تحلیل احساسات با BERT | ۸۷.۴۰٪ |
 | [RAG Qwen](https://github.com/javidshahadati/rag-qwen-assistant) | دستیار پرسش از سند با RAG | ۱۰۰٪، ۰ توهم |
 | [RAG Evaluation](https://github.com/javidshahadati/rag-evaluation) | ارزیابی سیستماتیک RAG | ۱۰۰٪، ۰ توهم |
-| [Text-to-JSON](https://github.com/javidshahadati/text-to-json-qwen) | تبدیل متن به JSON | ۶/۶ معتبر |
+| [Text-to-JSON](https://github.com/javidshahadati/text-to-json-qwen) | تبدیل متن به JSON | ۶/۶ معتبر (ساختار) |
 
 ## 🛠️ مهارت‌ها
 - Python, PyTorch, Hugging Face

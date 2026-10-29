@@ -3,6 +3,9 @@
 ## 🧠 درباره من
 علاقه‌مند به هوش مصنوعی و یادگیری ماشین. در حال ساختن پروژه‌های واقعی با PyTorch، Hugging Face و RAG.
 
+## 🔗 دموی زنده
+**👉 [RAG PDF Assistant — امتحان کن](https://javid-rag-assistant.streamlit.app)**
+
 ## 🚀 پروژه‌های من
 
 | پروژه | توضیح | نتیجه |
@@ -13,12 +16,14 @@
 | [RAG Evaluation](https://github.com/javidshahadati/rag-evaluation) | ارزیابی سیستماتیک RAG | ۱۰۰٪، ۰ توهم |
 | [Text-to-JSON](https://github.com/javidshahadati/text-to-json-qwen) | تبدیل متن به JSON | ۶/۶ معتبر (ساختار) |
 | [RAG PDF Assistant](https://github.com/javidshahadati/rag-pdf-assistant) | RAG کامل با Gradio و مدل ۷B | ۱۰۰٪، ۰ توهم |
+| [**RAG Streamlit (Live)**](https://github.com/javidshahadati/rag-streamlit) | RAG با API Cloudflare + Streamlit | [🔗 دمو](https://javid-rag-assistant.streamlit.app) |
 
 ## 🛠️ مهارت‌ها
 - Python, PyTorch, Hugging Face
 - NumPy, Pandas, Matplotlib
 - Scikit-learn, FAISS, RAG
-- Gradio, Prompt Engineering, Evaluation
+- Gradio, Streamlit, Prompt Engineering, Evaluation
 
 ## 📫 ارتباط با من
 - GitHub: [javidshahadati](https://github.com/javidshahadati)
+- LinkedIn: [javid-shahadati](https://www.linkedin.com/in/javid-shahadati-a867a0447/)

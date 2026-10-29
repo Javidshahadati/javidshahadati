@@ -12,12 +12,13 @@
 | [RAG Qwen](https://github.com/javidshahadati/rag-qwen-assistant) | دستیار پرسش از سند با RAG | ۱۰۰٪، ۰ توهم |
 | [RAG Evaluation](https://github.com/javidshahadati/rag-evaluation) | ارزیابی سیستماتیک RAG | ۱۰۰٪، ۰ توهم |
 | [Text-to-JSON](https://github.com/javidshahadati/text-to-json-qwen) | تبدیل متن به JSON | ۶/۶ معتبر (ساختار) |
+| [RAG PDF Assistant](https://github.com/javidshahadati/rag-pdf-assistant) | RAG کامل با Gradio و مدل ۷B | ۱۰۰٪، ۰ توهم |
 
 ## 🛠️ مهارت‌ها
 - Python, PyTorch, Hugging Face
 - NumPy, Pandas, Matplotlib
 - Scikit-learn, FAISS, RAG
-- Prompt Engineering, Evaluation
+- Gradio, Prompt Engineering, Evaluation
 
 ## 📫 ارتباط با من
 - GitHub: [javidshahadati](https://github.com/javidshahadati)
